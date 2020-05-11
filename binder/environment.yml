@@ -7,4 +7,4 @@ dependencies:
   - cartopy
   - ffmpeg
   - openblas
-  - parcels=2.1.5
+  - parcels=2.2.0
